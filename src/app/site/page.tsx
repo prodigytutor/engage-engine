@@ -137,7 +137,7 @@ export default async function Home() {
                     >
                       <Check />
                       <p>{feature}</p>
-                    </div> 
+                    </div>
                   ))}
               </div>
               <Link
